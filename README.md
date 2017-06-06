@@ -37,3 +37,4 @@ GPL-3.0 © [Pietro Martinelli](http://javapeanuts.blogger.com)
 [coveralls-image]: https://coveralls.io/repos/pietrom/generator-gradle-groovy/badge.svg
 [coveralls-url]: https://coveralls.io/r/pietrom/generator-gradle-groovy
 
+
